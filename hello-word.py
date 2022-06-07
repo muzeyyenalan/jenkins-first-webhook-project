@@ -1,1 +1,0 @@
-print("hello word for jenkins job ")
